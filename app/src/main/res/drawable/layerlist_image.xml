@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/picc800x800" />
+    </item>
+    <item
+        android:top="400dp"
+        android:left="400dp">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/mushroom200x200" />
+    </item>
+    <item
+        android:top="400dp"
+        android:right="400dp">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/nuclear200x200" />
+    </item>
+</layer-list>
